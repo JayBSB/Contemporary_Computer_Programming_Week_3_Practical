@@ -6,9 +6,12 @@ This readme was created using ChatGPT.
 
 ---
 
+---
 CHANGES MADE TO "ReadMe.md" FOR PRACTICAL IN BRANCH "master".
 ADDITIONAL CHANGES MADE TO "ReadMe.md" FOR PRACTICAL IN BRANCH "master".
-
+---
+CHANGES MADE FOR PRACTICAL IN "featureBranch1".
+ADDITIONAL CHANGES MADE FOR PRACTICAL IN "featureBranch1".
 ---
 
 ## Tasks
